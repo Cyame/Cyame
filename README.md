@@ -10,7 +10,7 @@ I usually use C++, Python as programming language😊
 
 However, most of my repository are about frontends😀
 
-because my beginning year of GitHub is 2020, I'm attracted by Vue then![Vue](https://simpleicons.org/icons/vue-dot-js.svg)
+because my beginning year of GitHub is 2020, I'm attracted by Vue then🎈
 
 I love Visual Studio Code, and JetBrains Kits for codes😍
 
