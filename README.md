@@ -1,6 +1,6 @@
 Hi, I'm Marlon. A CS Major from China.❤
 
-I love creating, sharing my happiness and love to others.⭐
+I love creating, sharing my happiness and love to others⭐
 
 I like Japanese Culture, and I'm falling with VTuber now😍
 
@@ -8,11 +8,11 @@ I like Japanese Culture, and I'm falling with VTuber now😍
 
 I usually use C++, Python as programming language😊
 
-However, most of my repository are about frontends😀
+However, most of my repositories are about frontends😀
 
-because my beginning year of GitHub is 2020, I'm attracted by Vue then🎈
+because my beginning year of GitHub is actually 2020, I'm attracted by Vue by then🎈
 
-I love Visual Studio Code, and JetBrains Kits for codes😍
+I love Visual Studio Code, and JetBrains Kits for codes👀
 
 Since I really like the Open Source🤩
 
