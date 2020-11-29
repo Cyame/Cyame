@@ -1,21 +1,19 @@
-Hi, I'm Marlon. A CS Major from China.❤
+Hi, I'm Marlon. A CS-major senior from China.❤
 
-I love creating, sharing my happiness and love to others⭐
-
-I like Japanese Culture, and I'm falling with VTuber now😍
+I enjoying creating, sharing my happiness and love to others⭐
 
 [![Cyame's github stats](https://github-readme-stats.vercel.app/api?username=Cyame&show_icons=true&counting_private=true&theme=buefy&include_all_commits=true)](https://cyame.github.io/)
 
 I usually use C++, Python as programming language😊
 
-However, most of my repositories are about frontends😀
+However, most of my public repositories are about frontends😀
 
 because my beginning year of GitHub is actually 2020, I'm attracted by Vue by then🎈
 
-I love Visual Studio Code, and JetBrains Kits for codes👀
+I love to use Visual Studio Code, and JetBrains Kits for codes👀
 
-Since I really like the Open Source🤩
+As I really like the Open Source🤩
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyame)](https://github.com/anuraghazra/github-readme-stats)
 
-Issue me, request me, and get on well with me!
+Please shoot me issues at this repo for any thoughts!
