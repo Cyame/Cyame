@@ -1,4 +1,4 @@
-Hi, I'm Marlon. A CS-major senior from China.❤
+Hi there, this is Marlon. A CS-ECE student now studying in the grad program of UofT!❤
 
 I enjoying creating, sharing my happiness and love to others⭐
 
