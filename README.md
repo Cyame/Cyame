@@ -7,7 +7,7 @@ My work revolves around developing agentic solutions, building comprehensive AIa
 [![Cyame's github stats](https://github-stats-extended.vercel.app/api?username=Cyame&show_icons=true&counting_private=true&theme=buefy&include_all_commits=true)](https://cyame.github.io/)
 
 ### About Me ⭐
-- Programming Languages: Python, C++, TypeScripts, Java
+- Programming Languages: Python, C++, TypeScript, Java
 - Languages: Chinese (CN), Japanese (JP), English (EN)
 - Experience: Full-stack development, AI research, platform development
 
