@@ -1,15 +1,15 @@
 
 ### Hi there, I'm Marlon! 👋
-I'm an AI platform and application developer at a research institute in China. 
+I'm an AI platform and application developer. 
 
-My work revolves around developing innovative solutions, building comprehensive AIaaS platform and exploring the depths of artificial intelligence.
+My work revolves around developing agentic solutions, building comprehensive AIaaS platform and exploring the depths of artificial intelligence.
 
 [![Cyame's github stats](https://github-readme-stats.vercel.app/api?username=Cyame&show_icons=true&counting_private=true&theme=buefy&include_all_commits=true)](https://cyame.github.io/)
 
 ### About Me ⭐
-- Programming Languages: Python, C++, Vue, Java
+- Programming Languages: Python, C++, TypeScripts, Java
 - Languages: Chinese (CN), Japanese (JP), English (EN)
-- Experience: Full-stack development, AI research, and platform development
+- Experience: Full-stack development, AI research, platform development
 
 ### At GitHub 🤩
 I focus on building application interfaces and runtime libraries while sometimes I sneak out making frontend stuff in the community:D
